@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tongcheng_all_bg01.png",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\tongcheng_all_bg01.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_title.9.png",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\drawable-hdpi\\home_title.9.png"
+    }
+]

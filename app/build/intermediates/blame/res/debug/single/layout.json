@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myfragment.xml",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\layout\\myfragment.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio\\listviewFragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_Studio\\listviewFragmentDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
